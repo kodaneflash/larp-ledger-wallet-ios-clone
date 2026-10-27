@@ -1,25 +1,68 @@
-# Larp Ledger Wallet iOS App Clone — Crypto Portfolio UI Demo
+# Fake 1:1 Ledger Larp iOS Wallet App Clone IPA
 
-An **unofficial Ledger-style wallet interface simulation for iPhone** from Larp Apps. Explore portfolio, Bitcoin account, and send/receive screens in a guided demo of a hardware-wallet companion app. Editable balances and activity are presentation data, not proof of cryptocurrency ownership or an on-chain transfer.
+# Fake 1:1 Ledger Larp iOS Wallet App Clone IPA with Features include but not limited to:
 
-[![Explore the Ledger demo on Larp Apps](https://img.shields.io/badge/Explore%20the%20Ledger%20Demo-Larp%20Apps-2563eb?style=for-the-badge)](https://larpapps.com/ledger) [![Join the Larp Apps Telegram](https://img.shields.io/badge/Join%20the%20Community-Telegram-229ED9?style=for-the-badge)](https://t.me/larpappz)
+- Configurable crypto balances, portfolio totals, account cards, and chart views
+- Bitcoin account screens with receive and send history
+- Editable demo activity with custom date, time, amount, and address details
+- Recipient entry, amount review, fee summary, and device-selection screens
+- Ledger Stax, Nano, and Flex themed confirmation flows
+- Solana, Zcash, USDC, and USDT asset rows shown in the showcase recording
+- Asset detail charts with multiple time ranges and portfolio balance cards
+- Swap quote interface with send and receive asset selectors
+- Earn and Card navigation, plus transfer, swap, and buy entry points
+- Account selection in the USDT sell walkthrough
+
+[![Explore the Ledger demo on Larp Apps](https://img.shields.io/badge/Explore%20the%20Ledger%20Demo-Larp%20Apps-2563eb?style=for-the-badge)](https://larpapps.com/ledger) [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larpappz)
 
 **Quick links:** [Larp Apps website](https://larpapps.com) · [Ledger product page](https://larpapps.com/ledger) · [Telegram community](https://t.me/larpappz)
 
-## Ledger-style wallet screens
+## Watch the Ledger showcase
 
-- Portfolio overview with a chart, asset values, and account cards.
-- Bitcoin account pages with market information and receive/send history.
-- Demo activity entries with configurable dates, amounts, and address details.
-- Send-flow walkthroughs covering recipient entry, amount review, and device selection.
-- Device-themed confirmation screens for Stax, Nano, and Flex flows.
+[![Preview of the Larp Ledger iOS wallet showcase video](media/ledger-showcase-preview.jpg)](media/ledger-showcase.mp4)
 
-The [Ledger-style wallet page](https://larpapps.com/ledger) contains current previews, feature details, and availability. This README is a **product overview**; it does not contain wallet source code, an official wallet download, or a way to verify assets.
+[Watch the full Ledger showcase video (MP4, 30 sec)](media/ledger-showcase.mp4).
 
-## Searching for a Ledger wallet UI demo?
+## What the Ledger-style demo includes
 
-If you are comparing a *Ledger app clone*, *Bitcoin wallet UI simulation*, or *iOS crypto portfolio demo*, the product page shows the Larp Apps experience. [Visit the website](https://larpapps.com) and [join Telegram](https://t.me/larpappz) for updates.
+**Ledger-style larp wallet experience for iPhone.**
+
+**HOME / PORTFOLIO**
+
+A portfolio overview connects adjustable asset values, account cards, and chart ranges. The recording also shows market discovery cards and separate Crypto, Stablecoins, and Stocks sections.
+
+**CRYPTO MARKETS & ASSET PAGES**
+
+The showcase walks through Solana, Zcash, USDC, and USDT rows with prices and daily movement. Individual asset pages show a price chart, selectable time ranges, a displayed balance, and a transfer entry point.
+
+**BITCOIN ACCOUNT HISTORY**
+
+The [Ledger product page](https://larpapps.com/ledger) also describes a BTC account view with wallet details, market data, and receive or send history.
+
+**CUSTOM RECEIVE & SEND ACTIVITY**
+
+Create demo receive or send entries with editable date, time, amount, and from-address details. Adjust displayed balances so the portfolio and account views follow the scenario.
+
+**SEND FLOW & REVIEW**
+
+The product page shows recipient-address entry, token and fiat amount selection, a transaction summary, and a fee review before the device-selection step.
+
+**SWAP & SELL INTERFACE**
+
+The recording shows a Swap tab with send and receive asset pickers, a quote area, and an asset-level sell flow that opens an account selector. These are interface views; the recording does not demonstrate a completed trade.
+
+**EARN & CARD TABS**
+
+The recording also visits Earn and Card screens. Earn lists assets and estimated rewards; Card shows a crypto-card overview and navigation choices.
+
+**DEVICE SELECTION & CONFIRMATION**
+
+Ledger Stax, Nano, and Flex themed screens on the product page guide device selection and on-device review of amount and recipient details.
+
+The [Ledger page](https://larpapps.com/ledger) has the current feature overview and previews. This repository is a **product overview**, not wallet source code or an official app download.
+
+[![Join the Larp Apps Telegram group](https://img.shields.io/badge/Join-Telegram%20Group-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larpappz)
 
 ## Important distinction
 
-Larp Apps is independent and is not affiliated with, endorsed by, or sponsored by Ledger. A displayed balance or transaction in this demo does not verify ownership or blockchain settlement. Use an official wallet and a block explorer to confirm real holdings and transfers. Never enter a recovery phrase into a demo app.
+Larp Apps is independent and is not affiliated with, endorsed by, or sponsored by Ledger. This is a simulation. A displayed balance, activity entry, or device screen does not verify ownership or an on-chain transaction. Confirm real holdings with an official wallet and block explorer, and never enter a recovery phrase into a demo app.
