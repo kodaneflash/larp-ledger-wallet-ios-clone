@@ -19,9 +19,9 @@
 
 ## Watch the Ledger showcase
 
-[![Preview of the Larp Ledger iOS wallet showcase video](media/ledger-showcase-preview.jpg)](media/ledger-showcase.mp4)
+https://github.com/user-attachments/assets/780cd767-b964-4522-b691-c4a1f9568bb7
 
-[Watch the full Ledger showcase video (MP4, 30 sec)](media/ledger-showcase.mp4).
+[Watch or download the Ledger showcase video (MP4, 30 sec)](media/ledger-showcase.mp4).
 
 ## What the Ledger-style demo includes
 
